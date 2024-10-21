@@ -19,7 +19,7 @@ failing to meet this requirement may result in a poor gameplay experience or une
 
 ## Documentation
 
-If you are planning to contribute or just want to learn more about this project please read through our [documentation](docs/README.md).
+If you are planning to contribute or just want to learn more about this project please read through  [documentation](docs/README.md).
 
 ## Features
 
