@@ -67,16 +67,6 @@ If you are planning to contribute or just want to learn more about this project 
   The emulator has settings for enabling or disabling some logging, remapping controllers, and more.
   You can configure all of them through the graphical interface or manually through the config file, `Config.json`, found in the user folder which can be accessed by clicking `Open Ryujinx Folder` under the File menu in the GUI.
 
-## Donations
-
-All developers working on the project do so in their free time, but the project has several expenses:
-* Hackable Nintendo Switch consoles to reverse-engineer the hardware
-* Additional computer hardware for testing purposes (e.g. GPUs to diagnose graphical bugs, etc.)
-* Licenses for various software development tools (e.g. Jetbrains, IDA)
-* Web hosting and infrastructure maintenance (e.g. LDN servers)
-
-All funds received through Patreon are considered a donation to support the project. Patrons receive early access to progress reports and exclusive access to developer interviews.
-
 ## License
 
 This software is licensed under the terms of the [MIT license](LICENSE.txt).
