@@ -17,11 +17,6 @@ over 4,100 boot past menus and into gameplay, with roughly 3,550 of those being 
 To run this emulator, your PC must be equipped with at least 8GiB of RAM;
 failing to meet this requirement may result in a poor gameplay experience or unexpected crashes.
 
-## Latest build
-
-These builds are compiled automatically for each commit on the master branch.
-While we strive to ensure optimal stability and performance prior to pushing an update, our automated builds **may be unstable or completely broken**.
-
 ## Documentation
 
 If you are planning to contribute or just want to learn more about this project please read through our [documentation](docs/README.md).
