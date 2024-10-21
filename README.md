@@ -26,7 +26,7 @@ If you are planning to contribute or just want to learn more about this project 
 - **Audio**
 
   Audio output is entirely supported, audio input (microphone) isn't supported.
-  We use C# wrappers for [OpenAL](https://openal-soft.org/), and [SDL2](https://www.libsdl.org/) & [libsoundio](http://libsound.io/) as fallbacks.
+  The emulator use C# wrappers for [OpenAL](https://openal-soft.org/), and [SDL2](https://www.libsdl.org/) & [libsoundio](http://libsound.io/) as fallbacks.
 
 - **CPU**
 
@@ -48,7 +48,7 @@ If you are planning to contribute or just want to learn more about this project 
 
 - **Input**
 
-  We currently have support for keyboard, mouse, touch input, JoyCon input support, and nearly all controllers.
+  The emulator currently have support for keyboard, mouse, touch input, JoyCon input support, and nearly all controllers.
   Motion controls are natively supported in most cases; for dual-JoyCon motion support, DS4Windows or BetterJoy are currently required.
   In all scenarios, you can set up everything inside the input configuration menu.
 
