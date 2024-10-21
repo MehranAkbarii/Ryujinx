@@ -12,10 +12,6 @@ It was written from scratch and development on the project began in September 20
 As of May 2024, Ryujinx has been tested on approximately 4,300 titles;
 over 4,100 boot past menus and into gameplay, with roughly 3,550 of those being considered playable.
 
-Anyone is free to submit a new game test or update an existing game test entry;
-simply follow the new issue template and testing guidelines, or post as a reply to the applicable game issue.
-Use the search function to see if a game has been tested already!
-
 ## Usage
 
 To run this emulator, your PC must be equipped with at least 8GiB of RAM;
